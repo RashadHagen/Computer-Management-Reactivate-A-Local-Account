@@ -76,7 +76,7 @@ This project goes over how to reactivate an Administrator account using Computer
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"></b>Double-Click: Administrator.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Double-Click: Administrator.</b></span>  
 <br/>
 
 <table>
@@ -90,7 +90,7 @@ This project goes over how to reactivate an Administrator account using Computer
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"></b>Uncheck: Account is disabled.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Uncheck: Account is disabled.</b></span>  
 <br/>
 
 <table>
