@@ -1,11 +1,11 @@
-<h1>Computer Management – Reactivate An Administrator Account</h1>
+<h1>Computer Management – Reactivate A Local Account</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to reactivate an Administrator account using Computer Management. Reactivating an Administrator account using Computer Management, specifically by enabling the "Account is disabled" option in the user's properties, makes the account available for login and allows it to be used for administrative tasks.
+This project goes over how to reactivate a Local account using Computer Management. Reactivating a Local account using Computer Management, specifically by enabling the "Account is disabled" option in the user's properties, makes the account available for login and allows it to be used for tasks.
 </b>
 
 
@@ -76,7 +76,7 @@ This project goes over how to reactivate an Administrator account using Computer
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Double-Click: Administrator.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Double-Click: The account you want to reactivate.</b></span>  
 <br/>
 
 <table>
